@@ -21,6 +21,4 @@ func main() {
 
 	blockchain.Printchain()
 
-	//todo
-
 }
