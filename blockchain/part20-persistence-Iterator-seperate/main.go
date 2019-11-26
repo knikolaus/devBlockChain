@@ -1,4 +1,4 @@
-package main
+package part20_persistence_Iterator_seperate
 
 import (
 	"devBlockChain/blockchain/part18-persistence-Iterator-time-format/BLC"
